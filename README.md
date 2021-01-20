@@ -1,5 +1,8 @@
 ### Hi there, I'm [Harold](https://www.biochen.com/) . 👋
 
+- 🌱 I’m currently learning Pytorch.
+- 💬 Ask me about Python / C++ / R.
+- ⚡ Fun fact: most of my friends are not use Github -- the most popular same-sex social media platform.
 <!--
 **wen-chen/wen-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
