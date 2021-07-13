@@ -1,4 +1,4 @@
-### Hi there, I'm [Harold](https://www.biochen.com/) . 👋
+### Hi there, I'm [Harold](https://www.biochen.org/) . 👋
 
 - 🌱 I’m currently learning Pytorch.
 - 💬 Ask me about Python / C++ / R.
